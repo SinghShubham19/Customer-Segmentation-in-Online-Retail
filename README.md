@@ -151,13 +151,13 @@ The relative importance of cluster charactersitics are:
 ## Suggestions and Cluster Interpretation: 
 
 1. **At Risk Customers** : These Customers have transacted a long time ago and contribute least in monetary terms.
-***Suggestion*** : These customers may have already exited from customer base. Try to understand why they left. Some sale and discount offers might help to bring a portion back.
+- ***Suggestion*** : These customers may have already exited from customer base. Try to understand why they left. Some sale and discount offers might help to bring a portion back.
 
 2. **Average Standing customers**: These Customers have transacted a recently and regularly, and contribute appreciably in monetary terms.
-***Suggestion*** : Need to handle them with care and convert them to best customers. Discount and Sale are highly desirable. Provide top customer support and services.
+- ***Suggestion*** : Need to handle them with care and convert them to best customers. Discount and Sale are highly desirable. Provide top customer support and services.
 
 3. **Best customers** : These customer transacted recently, are incredibly frequent and bring massive money to the company.
-***Suggestion*** : These customers can be a target of newly launched product. Repeated advertising can further increase revenue. Heavy discounts are not required.
+- ***Suggestion*** : These customers can be a target of newly launched product. Repeated advertising can further increase revenue. Heavy discounts are not required.
 
 
 
