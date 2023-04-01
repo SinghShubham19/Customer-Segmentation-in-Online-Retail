@@ -17,7 +17,7 @@ This data set contains all the transactions occurring between 01/12/2010 and 09/
 
 ## Data Snapshot
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (516)](https://user-images.githubusercontent.com/121576163/229271541-059cf0f3-272b-41ba-a53c-fae854fbe90e.png)
 
 ## Data Exploration 
 
@@ -25,7 +25,7 @@ This data set contains all the transactions occurring between 01/12/2010 and 09/
 - Removed duplicated Values
 - Maximum transactions are from UK
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (517)](https://user-images.githubusercontent.com/121576163/229271584-9185bbb3-0da0-44dc-8aa7-99940322b33d.png)
 
 ### Cohort Analysis
 
@@ -63,11 +63,11 @@ def diff(d,x1,y1):
 3. Grouped data by cohort month and cohort index.
 4. Developed a pivot table.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (518)](https://user-images.githubusercontent.com/121576163/229271650-bda075f9-bb60-4f31-a862-6286d2f35c6e.png)
 
 5. Developed a time cohort heatmap
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (519)](https://user-images.githubusercontent.com/121576163/229271678-4586ca52-ba15-4ff9-a155-3fa704b9a698.png)
 
 ### Summary
 
