@@ -1,3 +1,4 @@
+![customer-segmentation-illustration-shows-like-multicolored-groups-figures-49007677](https://user-images.githubusercontent.com/121576163/229272219-37238019-80c3-4d75-9200-4d9bef9c2cc8.jpg)
 
 # Customer Segmentation in Online Retail
 
@@ -137,7 +138,7 @@ plt.plot(inertia, marker="o");
 From the graph, I chose a cluster size of 3.
 The cluster statistics are :
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (524)](https://user-images.githubusercontent.com/121576163/229272072-e7777bc4-850f-44bc-bab4-690b262e73d1.png)
 
 I then labeled the customer segments as :
 
@@ -145,11 +146,11 @@ I then labeled the customer segments as :
 2. At risk 
 3. Average Customers
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (526)](https://user-images.githubusercontent.com/121576163/229272126-72f39a4d-683d-435b-8786-c67406d4f1cc.png)
 
 The relative importance of cluster charactersitics are:
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (527)](https://user-images.githubusercontent.com/121576163/229272168-ecae1c1e-117d-472e-a950-91ab9f2e31a0.png)
 
 ## Suggestions and Cluster Interpretation: 
 
