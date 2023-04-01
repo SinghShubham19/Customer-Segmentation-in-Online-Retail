@@ -96,7 +96,7 @@ freq=df6.groupby(["CustomerID"])[["InvoiceNo"]].count()
 df6["total"]=df6["Quantity"]*df6["UnitPrice"]
 money=df6.groupby(["CustomerID"])[["total"]].sum()
 ```
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (520)](https://user-images.githubusercontent.com/121576163/229271844-f0d29315-a28f-44ad-ade0-248dc37e11df.png)
 
 ## Clustering
 
@@ -104,13 +104,15 @@ Before K means clustering, I removed data skewness.
 
 - RFM Distribution
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (521)](https://user-images.githubusercontent.com/121576163/229271877-21dc4f67-cec0-41c3-a96f-1fbaa82a758d.png)
 
 Clearly the data is left skewed. I used log transformation to remove skewness.
 
 - After log transformation
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (522)](https://user-images.githubusercontent.com/121576163/229271922-92a7cc2f-9317-4cb0-a2b9-6ef13ea62b70.png)
+
+Thus skewnes  has been removed. Now we can proceed to implement k-means.
 
 
 ### Implementing K means
@@ -128,10 +130,11 @@ for i in np.arange(1,11):
 plt.figure(figsize=(12,8))
 plt.plot(inertia, marker="o");
 ```
+- ***Elbow Curve***
+![Screenshot (523)](https://user-images.githubusercontent.com/121576163/229271974-815eed30-2924-449e-8da2-247b62ca0e7c.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-From the graph, Ichose a cluster size of 3.
+From the graph, I chose a cluster size of 3.
 The cluster statistics are :
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
