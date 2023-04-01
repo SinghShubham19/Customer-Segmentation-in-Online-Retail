@@ -1,4 +1,4 @@
-![customer-segmentation-illustration-shows-like-multicolored-groups-figures-49007677](https://user-images.githubusercontent.com/121576163/229272219-37238019-80c3-4d75-9200-4d9bef9c2cc8.jpg)
+![customer-segmentation-illustration-shows-like-multicolored-groups-figures-49007677](https://user-images.githubusercontent.com/121576163/229273003-067058d7-1981-4d9e-9ea5-918478ad2316.jpg)
 
 # Customer Segmentation in Online Retail
 
@@ -162,6 +162,9 @@ The relative importance of cluster charactersitics are:
 
 3. **Best customers** : These customer transacted recently, are incredibly frequent and bring massive money to the company.
 - ***Suggestion*** : These customers can be a target of newly launched product. Repeated advertising can further increase revenue. Heavy discounts are not required.
+
+![Screenshot (528)](https://user-images.githubusercontent.com/121576163/229272921-b22fda1a-15cd-485d-89b8-4495489a8676.png)
+
 
 
 
